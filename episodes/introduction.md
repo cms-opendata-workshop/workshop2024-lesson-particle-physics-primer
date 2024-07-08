@@ -1,76 +1,42 @@
 ---
-title: "Using Markdown"
+title: "Introduction"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What is particle physics?
+- What is happening at the LHC?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Develop a very broad overview of what particle physics is
+- Develop a very broad overview of what takes place at CERN and the LHC
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+# Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+Particle physics is an broad field which focuses on the study of the very smallest particles. Even
+smaller than atoms! 
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+If you only had 5 minutes to learn about particle physics and wanted the simplest explanation possible, 
+you could do worse than the [Simple Wikipedia entry for "Particle Physics"](https://simple.wikipedia.org/wiki/Particle_physics).
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+If you only had more time and could handle a higher level of discussion, a good starting point is
+the [standard Wikipedia entry for "Particle Physics"](https://en.wikipedia.org/wiki/Particle_physics).
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+You probably want more though, so we'll provide some videos that go into a bit more detail about the specific topics
+that the LHC (Large Hadron Collider) experiments focus on. We'll start with some videos intended for the general public, 
+then go into some lectures by one of our collaborators, [Dr. Allison Hall](https://www.usna.edu/Users/physics/hall/index.php), 
+and then end with some basic computing challenges that walk you through a toy example of discovering particles. 
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
+First, some fun videos!
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
 
