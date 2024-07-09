@@ -2,7 +2,7 @@
 title: Setup
 ---
 
-## Setup
+# Setup
 
 For this lesson, you primarily need to have a computer with access to the internet and
 the requisite audio/video capabilities to watch/listen to YouTube videos.
