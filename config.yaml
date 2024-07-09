@@ -65,6 +65,8 @@ contact: 'cms-dpoa-coordinator@cern.ch' # FIXME
 episodes: 
 - introduction.md
 - 02-videos.md
+- 03-lectures.md
+- 04-toy-analyses.md
 
 # Information for Learners
 learners: 
